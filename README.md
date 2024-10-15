@@ -3,9 +3,9 @@
 ## Projects On My Todo List:
 ### Priority:
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
-* * [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/)
+* [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/)
 * [**C++**: _NES Emulator From Scratch_](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf) [video]
-* * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
+* [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
 * [**JavaScript**: _Build your own React_](https://pomb.us/build-your-own-react/)
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
 * [**JavaScript**: _Build Your Own AdBlocker in (Literally) 10 Minutes_](https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd)
